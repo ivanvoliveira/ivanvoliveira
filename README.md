@@ -10,7 +10,7 @@
 />
 <p align="left">
   Sou formado em <strong>Sistemas de Informação</strong> e atualmente estou
-  atuando como <strong>Desenvolvedor Fullstack Pleno</strong> na Unio Digital.
+  atuando como <strong>Desenvolvedor Fullstack Pleno</strong> na <a href="https://www.linkedin.com/company/uniodigital">Unio Digital</a>.
 </p>
 
 ### 🚀 Algumas das minhas skills
